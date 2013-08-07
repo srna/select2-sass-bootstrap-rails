@@ -112,5 +112,11 @@ select.select2 {
         top: 3px;
       }
     }
+
+    .select2-search-field {
+      input.select2-active {
+        background: white url(/assets/select2-spinner.gif) no-repeat 99.3% !important;
+      }
+    }
   }
 }

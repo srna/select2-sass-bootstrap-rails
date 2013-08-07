@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "select2-sass-bootstrap-rails"
-  gem.version       = "0.0.1"
+  gem.version       = "0.0.2"
   gem.authors       = ["Andrey Pospeev"]
   gem.email         = ["pospeev@gmail.com"]
   gem.description   = %q{Twitter Bootstrap styles for select2 jQuery plugin. Base css from https://github.com/t0m/select2-bootstrap-css}
